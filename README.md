@@ -21,8 +21,8 @@ Implementar prototipos funcionales utilizando la **Transformación de Hough** pa
 
  Ejemplos:
 
-![Imagen de líneas](imagenes/imagen_rectas.png)  
-![Acumulador de líneas](imagenes/acumulador_rectas.png)
+![Imagen de líneas](imagen_rectas.png)  
+![Acumulador de líneas](acumulador_rectas.png)
 
 ### 2. Transformación de Hough para Circunferencias
 
@@ -32,8 +32,8 @@ Implementar prototipos funcionales utilizando la **Transformación de Hough** pa
 
  Ejemplos:
 
-![Imagen con circunferencia](imagenes/imagen_circunferencia.png)  
-![Acumulador de centros](imagenes/acumulador_circunferencia.png)
+![Imagen con circunferencia](imagen_circunferencia.png)  
+![Acumulador de centros](acumulador_circunferencia.png)
 
 ##  Informe
 
