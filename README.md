@@ -53,4 +53,6 @@ El repositorio incluye el informe final en PDF con justificación teórica, aná
 
 ## Autor
 
-Julián Ottonello – Licenciatura en Informática – Universidad Siglo 21
+**Julián Ottonello**  
+Licenciatura en Informática – Universidad Siglo 21  
+GitHub: [@julianelcurioso](https://github.com/julianelcurioso)
